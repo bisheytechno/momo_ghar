@@ -135,7 +135,7 @@ curl -X POST http://localhost:8000/chat/resume \
 
 Node.js, Express, LangGraph, LangChain, Google Gemini, Zod
 
----
+
 
 ## Author
 
